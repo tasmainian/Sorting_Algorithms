@@ -1,0 +1,14 @@
+Best: Heap sort because it is linearithmic, a lot faster,
+takes up less memory and allows for fast manipulations
+
+Then is mergesort, because it is also linearithmic, however
+it takes up more memory since new arrays have to be stored
+
+Next is comparable sort, since it is quadratic but can take
+any object type and will automatically sort lexicographically 
+as well.
+
+Next is the ordinary insertion sort.
+
+Worst: Binary insert, because it is quadratic in the worst case
+and takes a lot of time finding the element to insert.
